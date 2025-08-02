@@ -1,0 +1,17 @@
+{
+  "issue": "7",
+  "issueTitle": "React管理ダッシュボード実装",
+  "currentTask": "1.2",
+  "currentTaskTitle": "package.json配置・npm install",
+  "progress": 6.7,
+  "totalTasks": 15,
+  "completedTasks": ["1.1"],
+  "lastUpdate": "2025-07-27T15:30:00.000Z",
+  "branch": "feature/frontend-dashboard",
+  "phase": "Phase 1: プロジェクト基盤構築",
+  "nextTask": "1.3",
+  "nextTaskTitle": "フォルダ構造作成",
+  "estimatedCompletion": "2025-07-28T23:59:00.000Z",
+  "blockers": [],
+  "notes": "Git ブランチ作成完了。npm installの準備完了。"
+}
