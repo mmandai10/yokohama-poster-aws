@@ -1,0 +1,13 @@
+﻿{
+  "pk": {"S": "POSTER"},
+  "sk": {"S": "kohoku-01-001"},
+  "posterNumber": {"S": "kohoku-01-001"},
+  "district": {"S": "港北区"},
+  "address": {"S": "港北区新横浜1-1-1"},
+  "boardType": {"S": "A0"},
+  "area": {"S": "横浜北"},
+  "status": {"S": "notStarted"},
+  "createdAt": {"S": "2025-08-24"},
+  "location": {"S": "投票区1・エリア1"},
+  "number": {"N": "1"}
+}
